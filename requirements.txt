@@ -1,9 +1,25 @@
+# Core data manipulation and analysis
 pandas>=1.5.0
 numpy>=1.21.0
+
+# Visualization libraries
 matplotlib>=3.5.0
 seaborn>=0.11.0
 plotly>=5.10.0
+
+# Natural language processing
 textblob>=0.17.0
+
+# Text processing and visualization
 emoji>=2.0.0
 wordcloud>=1.9.0
+
+# Network analysis
+networkx>=2.8.0
+
+# Date/time utilities
 python-dateutil>=2.8.0
+
+# Development and debugging
+ipython>=8.0.0
+jupyter>=1.0.0
