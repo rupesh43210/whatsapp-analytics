@@ -1,0 +1,86 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# WhatsApp Analytics specific
+# Logs and outputs
+*.log
+logs/
+output/
+results/
+exports/
+
+# Chat data and analysis results
+**/analysis_results/
+**/output/
+**/exports/
+**/logs/
+*.txt
+!requirements.txt
+!sample_chat_formats.txt
+
+# Analysis directories (contain processed data)
+Clean-Analysis/
+Complete-Analysis-With-Stats/
+Core-Rakshak-Analysis/
+Enhanced-Core-Rakshak-Analysis-v2/
+Enhanced-Core-Rakshak-Analysis/
+Final-Corrected-Analysis/
+Final-Working-Analysis/
+Fixed-Analysis/
+Professional-Analysis/
+Ultra-Enhanced-Analysis/
+
+# WhatsApp chat files
+*.zip
+*chat*.txt
+_chat.txt
+chat.txt
+
+# Data files
+debug_data.py
